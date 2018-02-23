@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+.btn.btn-info.btn-md {
+	padding: 18px 28px;
+	font-size: 22px;
+	min-width: 80px;
+	min-height: 170px;
+	height: 100%;
+	weight: 100%;
+}
+
+.row {
+	margin: 10px;
+}
+
+.row2 {
+	padding: -10px;
+}
+
+.row3 {
+	margin-top: 10px;
+}
+
+.btn.btn-info.btn-lg {
+	min-width: 80px;
+	min-height: 80px;
+	height: 100%;
+	weight: 100%;
+}
+
+div {
+	height: 80px;
+	weight: 40px;
+}
+
+#display {
+	min-width: 80px;
+	min-height: 80px;
+}
+
+div.col-sm-1, div.col-sm-3 {
+	padding: 0px;
+}
+
+.large-div {
+	height: 160px;
+	weight: 40px;
+}
